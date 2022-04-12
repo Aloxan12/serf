@@ -69,4 +69,19 @@
   color: #fff;
   z-index: 4;
 }
+
+.dots-box{
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  height: 28px;
+  align-items: center;
+
+  &__number{
+
+  }
+  &__name{
+
+  }
+}
 @import "media";
